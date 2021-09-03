@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Lafaiete do Vale (Lafa)
 
-I'm a former advertiser post-graduated in digital marketing who was looking for a way to work remotely and had to start coding to survive, specially in the pandemic.
+I'm an advertiser and digital marketer who was looking for a way to work remotely and had to start coding to survive, specially in the pandemic.
 Fortunately i felt in love with it too, because it brought me a new sea of possibilities to give life to my ideas.
 
 - 🔭 I’m currently working on my portfolio to get my first developent job and start this new amazing career.
