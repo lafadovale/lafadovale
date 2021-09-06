@@ -1,4 +1,4 @@
-## Hi there 🇬🇧 / Olá :portugal: / Hola :es: / Ciao :it: :pinched_fingers: ! :call_me_hand:
+### Hi there 🇬🇧 / Olá :portugal: / Hola :es: / Ciao :it: ! :call_me_hand:
 ### I'm Lafaiete do Vale (Lafa) from Brazil, and I can talk to you in these four languages.
 
 I'm an advertiser and digital marketer who was looking for a way to work remotely and had to start coding to survive, specially in the pandemic.
