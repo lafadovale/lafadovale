@@ -12,8 +12,8 @@ Luckily I felt in love with coding and it brought me a bunch of new possibilitie
 
 <div>
   <a href="https://github.com/lafadovale">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lafadovale&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lafadovale&layout=compact&langs_count=7&theme=blueberry"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lafadovale&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lafadovale&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Lafa-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
