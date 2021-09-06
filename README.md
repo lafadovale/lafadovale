@@ -8,8 +8,6 @@ Luckily I felt in love with coding and it brought me a bunch of new possibilitie
 - 👯 I'm looking to evolve as a web developer for now, but I think of working on IOT and machine learning someday.
 - ⚡ Fun fact: I can hold my breath for ten minutes. (Nahh, only the mighty pirate Guybrush Threepwood can do that...)
 
-<img align="right" alt="Lafa-BaDumTss" src="blob:https://tenor.com/e14a9885-1175-42c6-9088-9f1b05345a0f">
-
 ##
 
 <div>
