@@ -1,4 +1,4 @@
-## Hi / Olá / Hola / Ciao ! I'm Lafaiete (a.k.a. Lafa). :call_me_hand:
+## Hi / Olá / Hola / Ciao ! I'm Lafaiete (a.k.a. Lafa).
   
 I'm an advertiser && digital marketer && photographer who felt the need to code and was chasing the dream of a remote life for the last five years.
 Luckily I felt in love with coding and it brought me a bunch of new possibilities for my crazy ideas.
@@ -30,11 +30,12 @@ Luckily I felt in love with coding and it brought me a bunch of new possibilitie
   <img align="center" alt="Lafa-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Lafa-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Lafa-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  <img width="70px" align="center" src="https://c.tenor.com/NHZI7sPU5gQAAAAi/thisisfinland-finland.gif">
 </div>
   
   
 ##
-<div align="right"> 
+<div align="left"> 
   <a href="mailto:lafa.vale@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lafadovale" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://t.me/Lafa79"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
