@@ -4,8 +4,8 @@ I'm an advertiser && digital marketer && photographer who felt the need to code 
 Luckily I felt in love with coding and it brought me a bunch of new possibilities for my crazy ideas.
 
 - 🔭 I’m currently studying and working on so many projects to show you here and maybe make you feel like hiring me. :grin:
-- 🌱 Studying Node.js, Express, React with NextJS, GraphQL, MongoDB, PostgreSQL and Docker.
-- 👯 I'm evolving as a web developer for now, but I think of working on IOT and machine learning someday.
+- 🌱 Studying full stack technologies all the time: Node.js, React with NextJS, GraphQL and PostgreSQL for now.
+- 👯 I'm evolving as a web developer for now, but I think of working on IOT or AI someday.
 - ⚡ Fun fact: I can hold my breath for ten minutes. (Nahh, only the mighty pirate Guybrush Threepwood can do that...)
 
 ##
