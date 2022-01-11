@@ -3,10 +3,10 @@
 I'm an advertiser && digital marketer && photographer who felt the need to code and was chasing the dream of a remote life for the last five years.
 Luckily I felt in love with coding and it brought me a bunch of new possibilities for my crazy ideas.
 
-- 🔭 I’m currently studying and working on so many projects to show you here and maybe make you feel like hiring me. :grin:
-- 🌱 Studying full stack technologies all the time: Node.js, React with NextJS, GraphQL and PostgreSQL for now.
-- 👯 I'm evolving as a web developer for now, but I think of working on IOT or AI someday.
-- ⚡ Fun fact: I can hold my breath for ten minutes. (Nahh, only the mighty pirate Guybrush Threepwood can do that...)
+- 😀 I’m currently working at Smarkets Marketplace (Brazil) as a front-end developer and studying whenever I can.
+- 🌱 I'm studying Angular and Typescript most of the time, but I've already studied also some full stack tools and languages.
+- 👯 I'm evolving as a web developer for now, but I think of working on AI or IoT someday.
+- ⚡ Curious fact: I've learned by myself to read when I was 4 but no one convinced me I'm a genius, that's why I keep studying hard.
 
 ##
 
