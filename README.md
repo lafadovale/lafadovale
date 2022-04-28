@@ -6,7 +6,7 @@ Luckily I felt in love with coding and it brought me a bunch of new possibilitie
 - 😀 I’m currently working at Smarkets Marketplace (Brazil) as a front-end developer and studying whenever I can.
 - 🌱 I'm studying Angular and Typescript most of the time, but I've already studied also some full stack tools and languages.
 - 👯 I'm evolving as a web developer for now, but I think of working on AI or IoT someday.
-- ⚡ Curious fact: I've learned by myself to read when I was 4 but. Some people tried to convince me I'm a genius, but I don't believe it and I keep studying hard.
+- ⚡ Curious fact: I've learned by myself to read when I was 4. Some people tried to convince me I'm a genius, but I don't bought it and kept studying hard.
 
 ##
 
