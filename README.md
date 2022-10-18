@@ -1,12 +1,12 @@
 ## Hi / Olá / Hola / Ciao ! I'm Lafaiete (a.k.a. Lafa).
   
-I'm an advertiser && digital marketer && photographer who felt the need to code and was chasing the dream of a remote life for the last five years.
-Luckily I felt in love with coding and it brought me a bunch of new possibilities for my crazy ideas.
+I'm a former advertiser who felt the need to code for my personal projects and started studying it.
+Then I felt in love with it and no longer stopped.
 
-- 😀 I’m currently working at Smarkets Marketplace (Brazil) as a front-end developer and studying whenever I can.
+- 😀 I’m currently working at Smarkets Marketplace (Brazil) as a frontend developer and studying whenever I can.
 - 🌱 I'm studying Angular and Typescript most of the time, but I've already studied also some full stack tools and languages.
 - 👯 I'm evolving as a web developer for now, but I think of working on AI or IoT someday.
-- ⚡ Curious fact: I've learned by myself to read when I was 4. Some people tried to convince me I'm a genius, but I don't bought it and kept studying hard.
+- ⚡ Curious fact: my dream is to visit at least 30 different countries and this career is helping me a lot to get there.
 
 ##
 
