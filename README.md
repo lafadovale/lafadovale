@@ -1,10 +1,9 @@
-## Hi / Olá / Hola / Ciao ! I'm Lafaiete (a.k.a. Lafa).
+## Hi!  I'm Lafaiete (a.k.a. Lafa).
   
-I'm a former advertiser who felt the need to code for my personal projects and started studying it.
-Then I felt in love with it and no longer stopped.
+I'm a former advertiser who felt the need to code for my personal projects and started studying IT.
+Then I felt in love with it and never stopped.
 
-- 😀 I’m currently working at CRM&BONUS as a fullstack developer and studying whenever I can.
-- 👯 I'm evolving as a web developer for now, but I think of working on AI or IoT someday.
+- 👯 I'm a web developer now, but in the future I wonder myself working on AI or Cybersecurity.
 - ⚡ Curious fact: my dream is to visit at least 30 different countries and this career is helping me a lot to get there.
 
 ##
@@ -25,9 +24,7 @@ Then I felt in love with it and no longer stopped.
   <img align="center" alt="Lafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Lafa-NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg">
   <img align="center" alt="Lafa-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img align="center" alt="Lafa-PHP" height="30" width="30" src="https://user-images.githubusercontent.com/71189476/132200439-b068fae0-508e-425a-ac91-98c49c400d9b.png">
   <img align="center" alt="Lafa-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
-  <img align="center" alt="Lafa-GraphQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
   <img align="center" alt="Lafa-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Lafa-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Lafa-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
