@@ -1,6 +1,7 @@
 ## Hi!  I'm Lafaiete (call me Lafa).
   
 I'm a former advertiser who felt the need to code for my personal projects and started studying IT.
+
 Then I felt in love with it and never stopped.
 
 - 👯 I'm a web developer now, but in the future I wonder myself working on AI or Cybersecurity. Actually I'm curious about all topics.
