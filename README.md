@@ -3,8 +3,8 @@
 I'm a former advertiser who felt the need to code for my personal projects and started studying IT.
 Then I felt in love with it and never stopped.
 
-- 👯 I'm a web developer now, but in the future I wonder myself working on AI or Cybersecurity.
-- ⚡ Curious fact: my dream is to visit at least 30 different countries and this career is helping me a lot to get there. Currently I've been in 10.
+- 👯 I'm a web developer now, but in the future I wonder myself working on AI or Cybersecurity. Actually I'm curious about all topics.
+- ⚡ Personal fact: my dream is to visit at least 30 different countries and this career is helping me a lot to get there. Currently I've been in 10.
 
 ##
 
