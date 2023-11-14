@@ -1,11 +1,10 @@
 ## Hi!  I'm Lafaiete (call me Lafa).
   
-I'm a former advertiser who felt the need to code for my personal projects and started studying IT.
+Former advertiser and digital marketer, now IT grade student. I worked for over one year with web frontend development and now I'm working with OutSystems lowcode platform.
 
-Then I felt in love with it and never stopped.
-
-- 👯 I'm a web developer now, but in the future I wonder myself working on AI or Cybersecurity. Actually I'm curious about all topics.
-- ⚡ Personal fact: my dream is to visit at least 30 different countries and this career is helping me a lot to get there. Currently I've been in 10.
+- 🚀 I'm a reactive web developer now, but in the future I see myself working on a leadership position, like security or governance.
+- 🏍️ My passion is riding motorcycles and my dream is to cross some continents with some best friends.
+- ⚡ I've been on 10 different countries and I speak 4 languages. My goal is at least 30 countries and 6 languages.
 
 ##
 
